@@ -1,0 +1,85 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            e1:58:73:15:4d:3d:a0:ba:9b:6a:e5:3b:16:0d:88:77
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=mmp2.vzmec.com
+        Validity
+            Not Before: Jun 17 19:56:41 2022 GMT
+            Not After : Sep 19 19:56:41 2024 GMT
+        Subject: CN=lu.mmp2.vzmec.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:c2:b8:c8:58:f9:76:3a:e2:36:bf:97:a6:a5:ed:
+                    34:81:7a:35:55:92:8c:e0:55:12:66:cc:ce:9e:fe:
+                    53:5f:93:29:7c:52:74:50:25:86:58:16:f7:82:93:
+                    45:2b:f1:17:15:20:e9:b4:f6:6d:4b:b1:6c:1e:c1:
+                    26:1d:f3:34:d1:ac:de:50:5b:14:aa:15:62:77:9e:
+                    d9:64:41:68:a7:82:b0:b8:58:ec:ed:c9:06:56:7d:
+                    16:4e:c8:b2:c9:24:74:83:65:cc:bd:f8:d1:54:24:
+                    e8:58:52:17:62:b1:88:00:7a:7c:14:f5:1f:33:4a:
+                    6e:6e:5d:83:e7:90:e5:24:fa:13:1f:15:71:5f:a3:
+                    10:75:6e:c3:75:4c:cb:46:7e:14:8d:04:bb:6c:82:
+                    f1:fe:bc:5a:8b:12:d7:8a:84:6d:cf:16:26:62:aa:
+                    bc:22:81:d5:3f:8e:56:e6:9d:7b:e2:08:d3:75:d6:
+                    3c:2b:f4:8d:40:52:00:c1:a7:03:f7:d9:64:df:b7:
+                    0b:17:93:62:42:98:53:8d:5c:0a:d3:a1:1c:e9:a7:
+                    5a:6c:da:09:d6:32:c8:a7:99:81:38:8f:30:02:81:
+                    e3:8e:3e:6e:7a:07:bf:c8:17:8f:e3:0c:c5:2f:e5:
+                    7b:94:9e:ab:c9:87:8e:07:6e:8f:23:c1:0d:cf:10:
+                    8a:f1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                7C:ED:72:58:77:A1:B9:CD:B7:D8:7A:FA:6A:4C:6F:1D:35:E0:4B:F3
+            X509v3 Authority Key Identifier: 
+                keyid:6D:36:F2:3E:72:FF:E4:B8:D5:57:A9:82:B7:40:94:97:13:F9:4F:19
+                DirName:/CN=mmp2.vzmec.com
+                serial:7C:36:74:57:ED:DE:21:6F:14:4D:FB:EB:6C:DE:D2:42:29:60:52:11
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+         a1:93:89:2d:21:40:7e:63:bd:2d:dc:9c:f7:71:f6:fe:63:5d:
+         b4:b3:3c:12:b5:a5:37:b6:1e:2e:ac:31:d2:b9:a9:96:ae:46:
+         44:f9:da:b8:22:aa:1d:73:88:bd:65:5e:36:2a:31:62:2a:13:
+         d0:73:fc:4d:21:5f:6a:55:31:02:25:24:e9:ac:49:c1:77:b4:
+         77:77:5e:fa:ac:1f:76:b6:ce:fa:f0:0a:39:1d:af:6f:03:09:
+         90:9f:9d:76:94:83:47:6b:eb:0f:bb:08:01:4e:e5:40:05:ec:
+         9b:39:b1:07:25:6f:d1:90:57:c6:76:4a:74:59:68:e8:d7:2a:
+         93:58:03:4b:e4:8f:91:8f:63:2b:2e:e0:54:83:68:76:bd:b4:
+         dd:db:8d:60:a8:6b:2a:62:53:ba:54:89:b2:bd:5d:fd:66:2a:
+         08:7f:cd:99:b4:e7:85:d7:4e:a5:60:72:e7:f3:51:30:3a:8d:
+         81:70:88:0a:2c:c3:58:2b:ac:5f:9c:2c:9a:ba:c5:64:5b:97:
+         df:b9:0b:c0:5d:59:4d:6c:74:b1:0b:d4:e8:2a:c8:5f:8e:fd:
+         cd:d5:2b:2b:d2:27:ce:bd:ad:b6:35:6c:09:62:11:d7:f3:e2:
+         63:f6:02:7a:1f:e1:6e:86:22:f9:59:da:98:e2:5e:7a:42:f3:
+         83:57:52:1f
+-----BEGIN CERTIFICATE-----
+MIIDZjCCAk6gAwIBAgIRAOFYcxVNPaC6m2rlOxYNiHcwDQYJKoZIhvcNAQELBQAw
+GTEXMBUGA1UEAwwObW1wMi52em1lYy5jb20wHhcNMjIwNjE3MTk1NjQxWhcNMjQw
+OTE5MTk1NjQxWjAcMRowGAYDVQQDDBFsdS5tbXAyLnZ6bWVjLmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAMK4yFj5djriNr+XpqXtNIF6NVWSjOBV
+EmbMzp7+U1+TKXxSdFAlhlgW94KTRSvxFxUg6bT2bUuxbB7BJh3zNNGs3lBbFKoV
+Ynee2WRBaKeCsLhY7O3JBlZ9Fk7IsskkdINlzL340VQk6FhSF2KxiAB6fBT1HzNK
+bm5dg+eQ5ST6Ex8VcV+jEHVuw3VMy0Z+FI0Eu2yC8f68WosS14qEbc8WJmKqvCKB
+1T+OVuade+II03XWPCv0jUBSAMGnA/fZZN+3CxeTYkKYU41cCtOhHOmnWmzaCdYy
+yKeZgTiPMAKB444+bnoHv8gXj+MMxS/le5Seq8mHjgdujyPBDc8QivECAwEAAaOB
+pTCBojAJBgNVHRMEAjAAMB0GA1UdDgQWBBR87XJYd6G5zbfYevpqTG8dNeBL8zBU
+BgNVHSMETTBLgBRtNvI+cv/kuNVXqYK3QJSXE/lPGaEdpBswGTEXMBUGA1UEAwwO
+bW1wMi52em1lYy5jb22CFHw2dFft3iFvFE3762ze0kIpYFIRMBMGA1UdJQQMMAoG
+CCsGAQUFBwMCMAsGA1UdDwQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEAoZOJLSFA
+fmO9Ldyc93H2/mNdtLM8ErWlN7YeLqwx0rmplq5GRPnauCKqHXOIvWVeNioxYioT
+0HP8TSFfalUxAiUk6axJwXe0d3de+qwfdrbO+vAKOR2vbwMJkJ+ddpSDR2vrD7sI
+AU7lQAXsmzmxByVv0ZBXxnZKdFlo6Ncqk1gDS+SPkY9jKy7gVINodr203duNYKhr
+KmJTulSJsr1d/WYqCH/NmbTnhddOpWBy5/NRMDqNgXCICizDWCusX5wsmrrFZFuX
+37kLwF1ZTWx0sQvU6CrIX479zdUrK9Inzr2ttjVsCWIR1/PiY/YCeh/hboYi+Vna
+mOJeekLzg1dSHw==
+-----END CERTIFICATE-----
